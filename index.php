@@ -7,7 +7,7 @@
         <meta name=description content="HouseStyle">
         <meta name=author content="Yung-Chen Chou">
         <!-- <link rel=icon href=/Content/AssetsBS3/img/favicon.ico> -->
-        <title>House Style 衛浴用品館</title>
+        <title>House Style 好時代衛浴開發有限公司 - 台中精武店</title>
         <link href=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css rel=stylesheet>
         <link href=css/dashboard.css rel=stylesheet>
         <!--[if lt IE 9]>
@@ -29,7 +29,7 @@
                     <span class=icon-bar></span>
                     <span class=icon-bar></span>
                 </button>
-                <a class=navbar-brand href=#>Project name</a>
+                <a class=navbar-brand href=#>House Style 好時代衛浴--台中精武店</a>
             </div>
             <div id=navbar class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -48,17 +48,15 @@
          <div class=row>
              <div class="col-sm-3 col-md-2 sidebar">
                  <ul class="nav nav-sidebar">
-                     <li class=active><a href=#>Overview <span class=sr-only>(current)</span></a>
+                     <li class=active><a href=#>關於我們<span class=sr-only>(current)</span></a>
                      <li><a href=#>Reports</a>
                      <li><a href=#>Analytics</a>
                      <li><a href=#>Export</a>
                  </ul>
                  <ul class="nav nav-sidebar">
-                     <li><a href="">Nav item</a>
-                     <li><a href="">Nav item again</a>
-                     <li><a href="">One more nav</a>
-                     <li><a href="">Another nav item</a>
-                     <li><a href="">More navigation</a>
+                     <li><a href="index.php">關於好時代</a>
+                     <li><a href="">產品介紹</a>
+                     <li><a href="maintain/login.html">登入</a>
                  </ul>
                  <ul class="nav nav-sidebar">
                      <li><a href="">Nav item again</a>
